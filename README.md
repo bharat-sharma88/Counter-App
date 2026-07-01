@@ -4,7 +4,7 @@ A simple, clean counter application built with vanilla HTML, CSS, and JavaScript
 
 ## Demo
 
-**
+*https://bharat-sharma88.github.io/Counter-App/*
 
 ## Features
 
